@@ -9,14 +9,7 @@ The objective is to:
 - Provide actionable insights to improve content strategy.
 
 ## Dataset Used
-- **Source**: Exported from Twitter Analytics (CSV format)
-- **Key Fields**:
-  - Tweet Date & Content
-  - Impressions
-  - Likes, Retweets
-  - URL Clicks, Hashtag Clicks
-  - Media Views & Engagements
-  - User Profile Clicks
+- <a href="https://github.com/KavyaSudha01/Twitter-Analytics-Dashboard/blob/main/Tweet.xlsx">Dataset</a>
 
 ## Key Questions / KPIs Answered
 - What is the number of tweets per day of the week?
@@ -48,6 +41,7 @@ The objective is to:
 - **Retweets & Likes**: Semi-circular gauge visuals
 - **Impressions Over Time**: Weekly impressions trend line
 - **Slicer**: Filter dashboard by month
+- <a href="https://github.com/KavyaSudha01/Twitter-Analytics-Dashboard/blob/main/Twitter%20Dashboard.png">View Dashboard</a>
 
 ## Project Insights
 - **Thursday** had the highest tweet activity; **Sunday** the least.
